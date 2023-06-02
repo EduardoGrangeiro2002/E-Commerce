@@ -1,0 +1,5 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# Define a quebra de linha como LF (Linux/macOS) em todos os arquivos
+[*]
+end_of_line = lf
